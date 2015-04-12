@@ -1,0 +1,70 @@
+
+		.navbar-nav>li{
+			float: none;
+  			display: inline-block;
+  			color:#FFF;
+		}
+		.navbar-nav>li a{
+			color:#FFF;
+		}
+		.navbar-nav>li>a:hover, .navbar-navs>li>a:focus{
+  			background:transparent;
+			color:#EEE;
+		}
+		header, footer{
+			background:#327390;
+			color:#FFF;
+		}
+		.imagen{
+			background:url('http://oaxacaculture.com/wp-content/uploads/2010/11/dsc_0294.jpg');
+			background-size:100%;
+		    background-attachment: fixed;
+		    background-position: bottom; 
+			height:150px;
+		}
+		.navbar-nav{
+			float:none;
+		}
+		p, dd{
+			text-align:justify;
+		}
+		img{
+			width:100%;
+		}
+		.panel{
+			border: 1px solid #efefde;
+			box-shadow:none;
+			border-radius:2px;
+		}
+		.panel-heading{
+			background:#efefde;
+			border-radius:2px;
+		}
+		#nota1{
+			background:url('http://www.arquioax.org/atrio/wp-content/uploads/2015/02/web3b.jpg');
+			background-position:center;
+			height:300px;
+			background-size:100%;
+		}
+		#social{
+			background:url('http://www.christineellison.com/wp-content/uploads/2013/11/social-work-lecture-series.jpg');
+			background-position:center;
+			height:300px;
+			background-size:100%;
+		}
+		#directorio{
+			background:url('../img/collagee.jpg');
+			background-position:center;
+			height:300px;
+			background-size:100%;
+		}
+		#medios{
+			background:url('http://previews.123rf.com/images/aleksander1/aleksander11205/aleksander1120500094/13802567-Brown-musical-background-from-notes--Stock-Vector-music-background-pattern.jpg');
+			background-position:center;
+			height:300px;
+			background-size:100%;
+		}
+		#externos img{
+			border:5px solid #EDEDED;
+			margin-bottom:10px;
+		}
