@@ -68,3 +68,14 @@
 			border:5px solid #EDEDED;
 			margin-bottom:10px;
 		}
+		h1, .lead{
+			font-family: 'Ruthie', cursive;
+		}
+		.lead{
+			font-size:40px;
+			color:chocolate;
+		}
+		@font-face{
+			font-family: 'Ruthie';
+			src: url('../fonts/DobkinScript.ttf');
+		}
